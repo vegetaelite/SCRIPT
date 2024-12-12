@@ -2,7 +2,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     game.StarterGui:SetCore("SendNotification", {
       Icon = "rbxassetid://9152775759";
           Title = "PEDROX SCRIPT", 
-      Text = "Welcome PROXO!"
+      Text = "Welcome PEDROX SCRIPT!"
   })
   
   wait(1)
